@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Ref URL: https://www.youtube.com/watch?v=8QgQKRcAUvM&t=371s
+
+# Create folder and open in vs code editor
+# run command  npx create-react-app loign-signup
+# npm start
